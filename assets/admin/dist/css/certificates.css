@@ -1,0 +1,28 @@
+/* CSS Document */
+.color-red{color:#FFFF00;}
+.remark{
+    border: none;
+    text-align: -webkit-center;
+   }
+.header td{padding: 0px 20px;}
+.marksheet-data{
+	width: 100%; table-layout: fixed;
+}
+
+.sign-table{
+	width: 100%;
+	margin-top: 100px;
+}
+
+.sign-table tr td:first-child{
+	float: left;
+}
+.sign-table tr td:last-child{
+	float: right;
+}
+.sign-table img{
+	width: 100px;
+}
+.width_60{
+	width:60%;
+}
